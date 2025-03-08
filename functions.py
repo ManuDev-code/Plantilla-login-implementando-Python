@@ -16,3 +16,6 @@ def user_register():
     print("Usuario creado correctamente")
     
     print(user)
+    
+    def user_login():
+        print("Login")
