@@ -7,7 +7,7 @@ class LoginWindow:
     def __init__(self, root):
         self.root = root
         self.root.title("Iniciar Sesión")
-        self.root.geometry("300x250")
+        self.root.geometry("500x350")
         self.root.resizable(False, False)
         
         # Configuración de la ventana
